@@ -12,7 +12,7 @@ Kamus_Mee_Rilis/
 ├── android/
 │   └── Kamus Mee v1.3.0.apk
 └── windows/
-    └── Kamus Mee v1.3.0.exe
+    └── Belum Tersedia
 ```
 
 ---
@@ -30,25 +30,6 @@ Kamus_Mee_Rilis/
 4. Jalankan aplikasi **Kamus Mee**
 
 > ℹ️ Disarankan Android versi terbaru agar performa optimal.
-
----
-
-## 🖥️ Versi Windows
-
-**File:**
-`Kamus Mee v1.3.0.exe`
-
-### Cara Instal:
-
-1. Klik dua kali file `.exe`
-2. Jika muncul peringatan Windows Security:
-
-   * Pilih **More info**
-   * Klik **Run anyway**
-3. Ikuti proses instalasi sampai selesai
-4. Jalankan aplikasi melalui Desktop atau Start Menu
-
-> ℹ️ Kompatibel untuk Windows 10 dan Windows 11 (64-bit).
 
 ---
 
