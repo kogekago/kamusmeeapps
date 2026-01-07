@@ -10,9 +10,9 @@ Aplikasi ini tersedia untuk **Android** dan **Windows** dalam bentuk file instal
 ```
 Kamus_Mee_Rilis/
 ├── android/
-│   └── Kamus Mee v1.5.0.apk
+│   └── Kamus Mee v1.3.0.apk
 └── windows/
-    └── Kamus Mee v1.5.0.exe
+    └── Kamus Mee v1.3.0.exe
 ```
 
 ---
@@ -20,7 +20,7 @@ Kamus_Mee_Rilis/
 ## 📱 Versi Android
 
 **File:**
-`Kamus Mee v1.5.0.apk`
+`Kamus Mee v1.3.0.apk`
 
 ### Cara Instal:
 
@@ -36,7 +36,7 @@ Kamus_Mee_Rilis/
 ## 🖥️ Versi Windows
 
 **File:**
-`Kamus Mee v1.5.0.exe`
+`Kamus Mee v1.3.0.exe`
 
 ### Cara Instal:
 
@@ -64,8 +64,8 @@ Kamus_Mee_Rilis/
 
 ## 🔖 Versi Rilis
 
-* **Versi:** 1.5.0
-* **Platform:** Android & Windows
+* **Versi:** 1.3.0
+* **Platform:** Android 
 * **Status:** Stable Release
 
 ---
