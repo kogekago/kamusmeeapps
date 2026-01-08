@@ -3,7 +3,6 @@
 **Kamus Mee** adalah aplikasi kamus digital Bahasa Mee yang bertujuan mendukung pelestarian bahasa dan pengetahuan lokal Mee melalui platform digital.
 Aplikasi ini tersedia untuk **Android** dan **Windows** dalam bentuk file instalasi siap pakai.
 
----
 
 ## 📦 Struktur Rilis
 
