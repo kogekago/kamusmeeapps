@@ -14,7 +14,6 @@ Kamus_Mee_Rilis/
     └── Belum Tersedia
 ```
 
----
 
 ## 📱 Versi Android
 
@@ -30,7 +29,6 @@ Kamus_Mee_Rilis/
 
 > ℹ️ Disarankan Android versi terbaru agar performa optimal.
 
----
 
 ## ✨ Fitur Utama
 
@@ -40,7 +38,6 @@ Kamus_Mee_Rilis/
 * 🎨 Antarmuka sederhana dan ringan
 * 🌐 Terhubung ke API Kamus Mee
 
----
 
 ## 🔖 Versi Rilis
 
@@ -48,7 +45,6 @@ Kamus_Mee_Rilis/
 * **Platform:** Android 
 * **Status:** Stable Release
 
----
 
 ## 📄 Lisensi & Catatan
 
