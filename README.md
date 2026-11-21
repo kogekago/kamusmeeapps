@@ -3,8 +3,10 @@
 **Kamus Mee** adalah aplikasi kamus digital Bahasa Mee yang bertujuan mendukung pelestarian bahasa dan pengetahuan lokal Mee melalui platform digital.
 Aplikasi ini tersedia untuk **Android** dan **Windows** dalam bentuk file instalasi siap pakai.
 
-**Android terbaru di direktori ini: v3.12.3** (`versionCode 314`, 21 November 2026).
-Lihat [catatan rilis v3.12.3](Kamus_Mee_Rilis/Release%20Note/Release_v3123.md).
+**Kandidat Android terbaru lokal: v3.12.4** (`versionCode 315`, 21 November 2026).
+[Unduh APK lokal bertanda tangan rilis](Kamus_Mee_Rilis/android/Kamus%20Mee%20v3.12.4.apk) · [Catatan rilis dan perubahan tanda tangan](Kamus_Mee_Rilis/Release%20Note/Release_v3124.md).
+
+Belum dipublikasikan. Rilis publik sebelumnya tetap v3.12.3. APK baru tidak dapat langsung menimpa instalasi lama yang memakai tanda tangan debug.
 
 
 ## 📦 Struktur Rilis
